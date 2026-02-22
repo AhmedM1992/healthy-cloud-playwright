@@ -15,6 +15,6 @@ Add `.env` file to the root of the project with the value `ENVIRONMENT='dev'`. T
 ## :arrow_forward: Tests Run
 You have two options to run the tests:
 
-1. In Github Actions: navigate to Github Actions -> Click on `Playwright Tests` -> Click on "Run workflow" -> Choose `dev` env and `main` branch (default values) -> Click on "Run workflow"
+1. **In Github Actions**: navigate to Github Actions -> Click on `Playwright Tests` -> Click on "Run workflow" -> Choose `dev` env and `main` branch (default values) -> Click on "Run workflow"
 
-2. In Terminal: `npx playwright test {testName}.spec.ts`
+2. **In Terminal**: `npx playwright test {testName}.spec.ts`
