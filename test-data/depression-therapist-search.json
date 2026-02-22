@@ -1,0 +1,12 @@
+{
+  "search": {
+    "location": "Berlin",
+    "locationOption": "Berlin"
+  },
+  "versicherungsartFilter": {
+    "gesetzlicheKrankenversicherung": "Gesetzliche Krankenversicherung (GKV)"
+  },
+  "indikationFilter": {
+    "depression": "Depression"
+  }
+}
